@@ -50,8 +50,8 @@ style.textContent = `
     }
 
     .gallery img {
-        width: 100%;
-        max-width: 250px;
+        width: 200%; /* Increased size */
+        max-width: 300px; /* Increased size */
         border-radius: 8px;
         border: 2px solid #009ffd;
     }
